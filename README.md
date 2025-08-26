@@ -8,7 +8,7 @@ Programming: JavaScript, TypeScript, Python, PHP
 
 Frontend: React, Vue.js, Bootstrap, UI/UX Design
 
-Backend: Node.js, PHP Laravel, MySQL
+Backend: Node.js, Python Django, MySQL
 
 IT & Infrastructure: Windows Server, PowerShell, Active Directory, Docker
 
